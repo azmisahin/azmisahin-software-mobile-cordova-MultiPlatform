@@ -10,12 +10,15 @@
     "author": "bilgi(at)azmisahin.com",
     "license": "Apache-2.0",
     "dependencies": {
+        "cordova-android": "^6.2.3",
         "cordova-plugin-whitelist": "^1.3.2"
     },
     "cordova": {
         "plugins": {
             "cordova-plugin-whitelist": {}
         },
-        "platforms": []
+        "platforms": [
+            "android"
+        ]
     }
 }
