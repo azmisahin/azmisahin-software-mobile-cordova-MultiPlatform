@@ -5,4 +5,5 @@ Apache Cordova Mobile Application
 - git clone https://github.com/azmisahin/com.domain.mobile.cordova.web.git
 - NodeJs Install
 - npm install -g cordova
+- cordova platform update android
 - cordova platform android
