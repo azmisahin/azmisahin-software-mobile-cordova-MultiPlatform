@@ -1,0 +1,21 @@
+{
+    "name": "azmisahin.com",
+    "displayName": "azmisahin.com",
+    "version": "1.0.0",
+    "description": "Apache Cordova application , nodejs, cordova, android, ios, wp, osx, ubuntu",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "bilgi(at)azmisahin.com",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cordova-plugin-whitelist": "^1.3.2"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": []
+    }
+}
